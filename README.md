@@ -50,5 +50,4 @@ Design: Custom formatting, RGB color coding, and UI optimization for a professio
 
 **Data Set Used**
 
-https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png
-
+(https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/coffeeOrdersData.xlsx)
