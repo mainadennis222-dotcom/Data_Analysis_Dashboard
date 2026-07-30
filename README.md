@@ -30,9 +30,9 @@ Customer Loyalty: Tracks the top five customers by total sales volume to identif
 
 Product Preferences: Filters sales by roast type (Light, Medium, Dark) and package size (0.2kg to 2.5kg) to see which configurations drive the most revenue
 
-**Dashboard Interaction **
+**Dashboard Interaction**
 
-<a herf="https://github.com/mainadennis222 dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png">View Dashboard </a>
+<a href="https://github.com/mainadennis222 dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png">View Dashboard </a>
 
 **Visualizations & Interactivity**
 
