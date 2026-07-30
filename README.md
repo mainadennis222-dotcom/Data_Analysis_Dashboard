@@ -32,7 +32,7 @@ Product Preferences: Filters sales by roast type (Light, Medium, Dark) and packa
 
 **Dashboard Interaction**
 
-<a href="https://github.com/mainadennis222 dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png">View Dashboard </a>
+<a href="https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png">View Dashboard </a>
 
 **Visualizations & Interactivity**
 
