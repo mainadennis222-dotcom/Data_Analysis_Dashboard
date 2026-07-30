@@ -3,6 +3,10 @@ This end-to-end Excel project involves gathering, transforming, and visualizing 
 
 The primary goal was to analyze sales trends over time, identify top-performing regions, and understand customer preferences based on coffee type, roast, and loyalty status.
 
+**Data Set Used**
+
+<a href= "https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/coffeeOrdersData.xlsx">Dataset</a>
+
 **Data Processing & Transformation**
 The project utilized three primary data tables: Orders, Customers, and Products
 _Key transformation steps included:_
@@ -48,6 +52,3 @@ Data Visualization: Pivot Tables, Pivot Charts, Timelines, and Slicers
 
 Design: Custom formatting, RGB color coding, and UI optimization for a professional dashboard look
 
-**Data Set Used**
-
-<a href= "https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/coffeeOrdersData.xlsx">Dataset</a>
