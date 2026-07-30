@@ -48,3 +48,7 @@ Data Visualization: Pivot Tables, Pivot Charts, Timelines, and Slicers
 
 Design: Custom formatting, RGB color coding, and UI optimization for a professional dashboard look
 
+**Data Set Used**
+
+https://github.com/mainadennis222-dotcom/Data_Analysis_Dashboard/blob/main/Coffee_sales_Dashboard.png
+
