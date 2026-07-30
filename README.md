@@ -48,6 +48,10 @@ Slicers: Three interactive slicers for Roast Type Name, Size, and Loyalty Card s
 
 UI/UX Enhancements: Gridlines, row/column headers, and the formula bar were hidden to create a clean, professional dashboard interface
 
+**Dashboard**
+<img width="785" height="409" alt="image" src="https://github.com/user-attachments/assets/29e0cd7e-537d-496a-aa9b-4e9aa2ccd9f0" />
+
+
 **Tools Used**
 
 Advanced Formulas: XLOOKUP, INDEX MATCH, Nested IF functions
